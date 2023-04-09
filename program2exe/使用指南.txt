@@ -1,0 +1,9 @@
+重要！！！！----本软件需要先安装matlab 2022a的runtime环境包 下载地址https://ssd.mathworks.cn/supportfiles/downloads/R2022a/Release/0/deployment_files/installer/complete/win64/MATLAB_Runtime_R2022a_win64.zip
+
+shift+右键 打开cmd或者powershell
+使用时按照格式DKI_pro+文件夹名字
+文件夹中dcm文件必须有dcm后缀，如没有后缀请使用ren *.* *.dcm进行批量重命名
+
+
+示例 DLRAI dwis
+配置要求显卡1060以上，CPU无要求
